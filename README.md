@@ -1,5 +1,5 @@
 # mac_changer
-Simple MAC changing tool
+Simple MAC address changing tool
 
 Usage:
 
